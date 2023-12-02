@@ -25,12 +25,13 @@ p{
 #details{
   display: flex;
   background-color: red;
+  width: 100%;
 }
 
 div{
 
   margin-left: 10px;
-  width: 300px;
+  width: 25%;
 }
 
 
